@@ -1,0 +1,9 @@
+$lp-color-blue-hard: #0485dd;
+$lp-color-blue-soft: #36ceff;
+$lp-color-white: #fff;
+$lp-color-gray-darker: #333;
+$lp-color-gray-from: #393f43ff;
+$lp-color-gray-footer: #2f3539ff;
+$lp-size-sm: 1.4rem;
+$lp-size-md: 1.6rem;
+$lp-size-lg: 1.8rem;
